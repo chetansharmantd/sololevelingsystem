@@ -203,12 +203,6 @@ Community feedback helps improve balancing, dungeon scaling, and gameplay system
 
 ---
 
-## 📄 License
-
-*Add your license here (e.g., MIT, GPL, etc.)*
-
----
-
 ## 🙏 Acknowledgments
 
 Inspired by the *Solo Leveling* series by Chugong.
