@@ -195,7 +195,6 @@ Community feedback helps improve balancing, dungeon scaling, and gameplay system
 
 ## 🛠️ Tech Stack
 
-*Add your tech stack here, for example:*
 - **Android** (Kotlin/Java)
 - **Firebase** (Authentication, Database)
 - **ML Kit** (Pose Detection)
