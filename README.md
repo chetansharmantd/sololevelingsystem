@@ -11,4 +11,4 @@ A gamified fitness tracking app for Android inspired by *Solo Leveling*, where r
 
 ## ⬇️ Download/Update for Android via Play Store
 
-👉 **[Download the latest Android APK](https://play.google.com/store/apps/details?id=com.chetansharma.solo_leveling_system&hl=en-US&ah=U7AbWXKEitVttN4opEaNF6-YuQM)**
+👉 **[Download the latest version](https://play.google.com/store/apps/details?id=com.chetansharma.solo_leveling_system&hl=en-US&ah=U7AbWXKEitVttN4opEaNF6-YuQM)**
